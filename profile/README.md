@@ -45,7 +45,7 @@ Ne esistono due varianti:
 * Regole di collaborazione (issues, pull request, code style)
 * Spazio dedicato alla documentazione del progetto
 
-Link al repository base: [20XX-20XX-template-progetto](https://github.com/MEdu-lab/20XX-20XX-template-progetto)
+Link al repository base: [AAAA-AAAA-target-tipologia-scuola](https://github.com/MEdu-lab/AAAA-AAAA-target-tipologia-scuola)
 
 ---
 
