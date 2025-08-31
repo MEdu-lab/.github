@@ -35,8 +35,8 @@ dove:
 Per garantire coerenza e ordine, ogni nuovo progetto si basa su un **repository template**.
 Ne esistono due varianti:
 
-* 📖 **Template pubblico** – per progetti aperti e condivisi con la comunità
-* 🔒 **Template privato** – per progetti ad accesso limitato
+* 📖 **Template pubblico** – per progetti con scuole pubblice
+* 🔒 **Template privato** – per progetti con scuole private
 
 👉 I template contengono già:
 
