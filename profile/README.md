@@ -2,7 +2,7 @@
 
 ## 👥 Chi siamo
 
-Siamo un team di musicisti – **Giulio Romano De Mattia**, **Marco Di Gasbarro**, **Pietro Barale** – attivi nei campi della musica elettronica, elettroacustica e popolare.
+Siamo un team di musicisti – **Pietro Barale**, **Giulio Romano De Mattia** e **Marco Di Gasbarro**,  – attivi nei campi della musica elettronica, elettroacustica e popolare.
 Il nostro lavoro è dedicato alla **ricerca sperimentale sull’insegnamento musicale** con l’obiettivo di sviluppare una **nuova didattica** innovativa, inclusiva e aperta al futuro.
 
 ---
