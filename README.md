@@ -2,7 +2,7 @@
 
 ## 👥 Chi siamo
 
-Siamo un team di musicisti – **Giulio Romano De Mattia**, **Marco Di Gasbarro**, **Pietro Barale** – attivi nei campi della musica elettronica, elettroacustica e popolare.
+Siamo un team di musicisti – **Pietro Barale**, **Giulio Romano De Mattia** e **Marco Di Gasbarro**,  – attivi nei campi della musica elettronica, elettroacustica e popolare.
 Il nostro lavoro è dedicato alla **ricerca sperimentale sull’insegnamento musicale** con l’obiettivo di sviluppare una **nuova didattica** innovativa, inclusiva e aperta al futuro.
 
 ---
@@ -45,7 +45,7 @@ Ne esistono due varianti:
 * Regole di collaborazione (issues, pull request, code style)
 * Spazio dedicato alla documentazione del progetto
 
-Link al repository base: [20XX-20XX-template-progetto](https://github.com/MEdu-lab/20XX-20XX-template-progetto)
+Link al repository base: [AAAA-AAAA-target-tipologia-scuola](https://github.com/MEdu-lab/AAAA-AAAA-target-tipologia-scuola)
 
 ---
 
